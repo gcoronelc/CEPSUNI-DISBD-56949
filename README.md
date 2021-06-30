@@ -1,13 +1,12 @@
-![FUNDAMENTOS DE PROGRAMACIÓN CON C++](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-CPP-55797/main/img/portada.png)
+![FUNDAMENTOS DE PROGRAMACIÓN CON C++](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-DISBD-56949/main/img/portada.png)
 
 # DATOS GENERALES
 
 - Lugar: CEPS-UNI
-- Horario: Lunes, Miercoles y Viernes de 19 - 22 Horas
-- Inicio: 21.MAY.2021
+- Horario: Lunes, Miercoles y Viernes de 08-11 Horas
+- Inicio: 30.JUN.2021
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/6JRfgrEPkLYR4AVn6
-- Curso Online: https://n9.cl/gcoronelc-cpp
 - Correo para el curso: egcc.uni@gmail.com
 
 # DOCENTE
@@ -24,11 +23,12 @@
 
 # YUTUBE
 
+- CURSOS VIRTUALES: https://n9.cl/cursos-virtuales
 - JAVA FUNDAMENTOS: https://n9.cl/gcoronelc-fdp-java
 - JAVA OO: https://bit.ly/2FCowSU
 - JDBC: https://bit.ly/2TaHisH
 - PL/SQL: https://bit.ly/2uvE9cF
-- C++: https://bit.ly/2R4nZP2
+- C++: https://n9.cl/gcoronelc-cpp
 - ORCLE: https://bit.ly/2QZIBbf
 - JAVA WEB CON ORACLE: https://bit.ly/36D6njZ
 - WS SOAP EJEMPLO 1: https://bit.ly/2Rd7osH
