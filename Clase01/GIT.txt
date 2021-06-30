@@ -1,4 +1,6 @@
 Es necesario estar dentro del repositorio.
+=================================================
+
 
 - Clonar repositorio
 
