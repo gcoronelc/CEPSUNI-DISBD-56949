@@ -1,0 +1,22 @@
+ENTIDADES
+------------------------------------------------
+1.- Proyecto
+2.- Cliente
+3.- Empleado
+4.- Departamento
+5.- TipoCliente
+
+RELACIONES
+------------------------------------------------
+
+1.- PROYECTO ------ CLIENTE
+2.- EMPLEADO ------ DEPARTAMENTO
+3.- CLIENTE  ------ TIPOCLIENTE
+4.- PROYECTO ------ EMPLEADO
+
+
+
+
+
+
+

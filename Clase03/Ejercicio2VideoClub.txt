@@ -1,0 +1,21 @@
+ENTIDADES
+----------------------------------------------
+1.- Video
+2.- Socio (SI)
+3.- Club
+4.- Actor (SI)
+5.- TipoVideo
+6.- Pelicula (SI)
+7.- Cliente
+8.- Protagonista
+9.- Formato (SI)
+10.- Categoria (SI)
+11.- Copia (SI)
+12.- RolActor (SI)
+13.- Alquiler (SI)
+14.- DetalleAlquiler (SI)
+
+
+
+
+
