@@ -1,0 +1,14 @@
+ENTIDADES
+------------------------------------------------
+1.- Proyecto
+2.- Cliente
+3.- Empleado
+4.- Departamento
+5.- TipoCliente
+
+
+
+
+
+
+
