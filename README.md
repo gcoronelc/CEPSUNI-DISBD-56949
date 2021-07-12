@@ -20,7 +20,7 @@
 - Facebook 3: https://www.facebook.com/groups/bolsa.sistemas/
 - Grupo de WS de Programación: https://chat.whatsapp.com/H6BBebNDZHEAqAk6gTU5ZS
 
-#RECURSOS
+# RECURSOS
 
 - INSTALACIÓN: https://n9.cl/instalarsqlserver
 
