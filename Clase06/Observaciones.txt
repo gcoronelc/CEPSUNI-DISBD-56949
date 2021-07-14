@@ -1,0 +1,15 @@
+﻿HELPDESK
+- Los atributos "ticket" y "Fecha" no son atributos de la entidad USUARIO.
+- Los atributos "Profesion" y "Fecha" no son atributo de la entidad AREA.
+- Revisar la relacion "personal_prof" con "usuario" y "Servicio".
+
+VENTA DE AUTOS
+- La entidad "REVISION" me parece que no esta bien definida, es necesario revisarla.
+- El modelo no refleja la venta.
+
+
+VENTA DE FLORES
+- De la empresa de envio, como sería un ejemplo de un registro.
+  me preocupa los atributos turnos y distritos.
+- Que pasa si en una venta deben ir varios items.
+- Se debe revisar la entidad "PEDIDO".
